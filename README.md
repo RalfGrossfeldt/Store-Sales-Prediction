@@ -15,7 +15,7 @@
 
 ### Data
 
-All of the data, except submission data, is located at `./data/`. **Submission data** is at the root of the project. The data folder in Github is empty since some of the files were too large for pushing and for simplicity no other methods were used for working with large files (e.g. Git LFS). Information about the data and all of the datasets can be found at this **[link](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)**
+All of the data, except submission data, is located at `./data/`. **Submission data** is at the root of the project. The data folder in Github is empty since some of the files were too large for pushing and for simplicity no other methods were used for working with large files (e.g. Git LFS). Information about the data and all of the datasets can be found and downloaded at this **[link](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)**.
 
 ### Jupyter Notebook
 
@@ -31,7 +31,7 @@ Or if using conda, then
 
 #### Usage
 
-For creating the models and running data preparation:
+For creating the models, doing data preparation and creating a submission file:
 * Download datasets from the Kaggle competition.
 * Add the downloaded datasets to the `./data/` folder.
 * Run all of the notebook cells.
