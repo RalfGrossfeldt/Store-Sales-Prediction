@@ -21,13 +21,13 @@ All of the data, except submission data, is located at `./data/`. **Submission d
 
 #### Install
 
-Since **sklearn** is used, then scikit-learn needs to be installed.
+Since **sklearn**, **lightgbm** and **xgboost** are used, then the following packages need to be installed.
 
-`pip install scikit-learn`
+`pip install scikit-learn lightgbm xgboost`
 
 Or if using conda, then
 
-`conda install scikit-learn`
+`conda install scikit-learn lightgbm xgboost`
 
 #### Usage
 
