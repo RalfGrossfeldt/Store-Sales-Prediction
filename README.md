@@ -21,13 +21,13 @@ All of the data, except submission data, is located at `./data/`. **Submission d
 
 #### Install
 
-Since **sklearn**, **lightgbm**, **xgboost**, **plotnine** and **pandas** are used, then the following packages need to be installed.
+Since **sklearn**, **lightgbm**, **xgboost**, **plotnine**, **pandas**, **numpy**, **seaborn** and **matplotlib** are used, then the following packages need to be installed.
 
-`pip install scikit-learn lightgbm xgboost plotnine pandas`
+`pip install scikit-learn lightgbm xgboost plotnine pandas numpy seaborn matplotlib`
 
 Or if using conda, then
 
-`conda install scikit-learn lightgbm xgboost plotnine pandas`
+`conda install scikit-learn lightgbm xgboost plotnine pandas numpy seaborn matplotlib`
 
 #### Usage
 
